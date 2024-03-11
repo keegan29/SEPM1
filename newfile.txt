@@ -1,0 +1,1 @@
+Test Data in newfile.txt, Changes made after git reset. Changes made to show up in git diff
